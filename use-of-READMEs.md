@@ -78,8 +78,7 @@ Keep this section limited to core endpoints - if the app is complex link out to 
 
 - Full documentation of the API - if the app is complex or has a complex API, use the `docs` directory liberally, and link out to it from the `README`
 	- If the API is small try to keep it in the main README and don't link to docs
-	- Some bad examples - too much documentation in the README:
-		- [smart-answers](https://github.com/alphagov/smart-answers/blob/06dfeb854ec9728374186a2e37c1eb62a5aaa49a/README.md)
+	- A bad example - too much documentation in the README:
 		- [govuk_frontend_toolkit](https://github.com/alphagov/govuk_frontend_toolkit/blob/edd834de8d2f4e854475f5d226aa0cd260795cef/README.md)
 	- Good examples:
 		- [content-store](https://github.com/alphagov/content-store/blob/b244620f505f248fc93d8556eedad14b5cba1187/README.md) - links out to more docs as required
